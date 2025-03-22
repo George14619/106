@@ -4,9 +4,6 @@ function sayHello()
 }
 
 
-
-
-
 function init()
 {
     console.log("Hello im the init");
