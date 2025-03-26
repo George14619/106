@@ -1,4 +1,4 @@
-funtion saveTask()
+function saveTask()
 {
     console.log("saveTask is running");
 }
