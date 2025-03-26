@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    height: 100vh;
+}
+
+#list{
+    background-color: aquamarine;
+    flex: 6;
+}
+#form{
+    background-color: blueviolet;
+    flex: 6;
+}
+/* I need to cover the entire screen with the background color */
